@@ -3,7 +3,7 @@ Building the laion5B paper
 
 ## Deadlines
 
-### Option A: Call for Papers [NeurIPS Call For Papers](https://nips.cc/Conferences/2022/CallForPapers)
+### Option A: [NeurIPS Call For Papers](https://nips.cc/Conferences/2022/CallForPapers)
 
 - Abstract submission deadline: **Monday, May 16, 2022** 01:00 PM PDT
 - Full paper submission and co-author registration deadline: **Thursday, May 19, 2022** 01:00 PM PDT
