@@ -1,5 +1,6 @@
-# laion5B-paper
-Building the laion5B paper
+# LAION-5B-paper
+
+Important information around the paper of LAION-5B.
 
 ## Deadlines
 
