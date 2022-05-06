@@ -14,12 +14,13 @@ Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48
 
 ## Current tasks
 
-* related works (dataset and models papers on the domain) : why it's important, what is missing
-* what we provide / statistics
-* comparison with other datasets (would be like the results table in a model paper)
-* explanation of the method and how that method can be reused for future datasets (eg web filtering with a contrastive model)
-* what people do with of the dataset
-* experiments showing dataset utility and meaningfully addressing the limitations of the data (CLIP bias, alt-text, etc.)
+[ ] literature research
+[ ] related works (dataset and models papers on the domain) : why it's important, what is missing
+[ ] what we provide / statistics
+[ ] comparison with other datasets (would be like the results table in a model paper)
+[ ] explanation of the method and how that method can be reused for future datasets (eg web filtering with a contrastive model)
+[ ] what people do with the dataset
+[ ] experiments showing dataset utility and meaningfully addressing the limitations of the data (CLIP bias, alt-text, etc.)
 
 ## Deadlines
 
