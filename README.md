@@ -14,6 +14,8 @@ Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48
 
 ## Current tasks
 
+- [x] General layout for NeurIPS2022
+- [x] Completed and added datasheet
 - [ ] literature research
 - [ ] related works (dataset and models papers on the domain) : why it's important, what is missing
 - [ ] what we provide / statistics
