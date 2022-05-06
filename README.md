@@ -1,6 +1,12 @@
+<a href="https://discord.gg/xBPBXfcFHd"><img alt="Join us on Discord" src="https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white"></a>
+
 # LAION-5B-paper
 
 Important information around the paper of LAION-5B.
+
+## [LAION-5B-6th-May-2022.pdf](LAION-5B-6th-May-2022.pdf)
+
+This is the latest overleaf version of our manuscript.
 
 ## Collaborative work
 
