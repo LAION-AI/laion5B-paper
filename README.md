@@ -10,7 +10,7 @@ This is the latest overleaf version of our manuscript.
 
 ## Collaborative work
 
-Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48a63539152e9045) to see the current paper! If you want to help writing the paper, just write your E-Mail to Cade or RobVanVolt in the discord or ping us in an issue where you want to help.
+Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48a63539152e9045) to see the current paper! If you want to help writing the paper, just write your E-Mail to Cade or RobVanVolt in the [discord](https://discord.gg/xBPBXfcFHd) or ping us in an issue where you want to help.
 
 ## Current tasks
 
