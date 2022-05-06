@@ -16,13 +16,13 @@ Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48
 
 - [x] General layout for NeurIPS2022
 - [x] Completed and added datasheet
-- [ ] literature research [#2](/../../issues/2)
-- [ ] related works (dataset and models papers on the domain) : why it's important, what is missing
-- [ ] what we provide / statistics
-- [ ] comparison with other datasets (would be like the results table in a model paper)
-- [ ] explanation of the method and how that method can be reused for future datasets (eg web filtering with a contrastive model)
-- [ ] what people do with the dataset
-- [ ] experiments showing dataset utility and meaningfully addressing the limitations of the data (CLIP bias, alt-text, etc.)
+- [ ] literature research, see also [#2](/../../issues/2)
+- [ ] related works (dataset and models papers on the domain): why it's important, what is missing, see also [#2](/../../issues/2)
+- [ ] what we provide / statistics, see also [#3](/../../issues/3)
+- [ ] comparison with other datasets (would be like the results table in a model paper), see also [#3](/../../issues/3)
+- [ ] explanation of the method and how that method can be reused for future datasets (eg web filtering with a contrastive model), see also [#4](/../../issues/4)
+- [ ] what people do with the dataset, see also [#2](/../../issues/2) and [#4](/../../issues/4)
+- [ ] experiments showing dataset utility and meaningfully addressing the limitations of the data (CLIP bias, alt-text, etc.), see also [#5](/../../issues/5) and [#6](/../../issues/6)
 
 ## Deadlines
 
