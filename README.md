@@ -24,6 +24,11 @@ Head over to the [Overleaf document](https://www.overleaf.com/project/6269fb5a48
 - [ ] what people do with the dataset, see also [#2](/../../issues/2) and [#4](/../../issues/4)
 - [ ] experiments showing dataset utility and meaningfully addressing the limitations of the data (CLIP bias, alt-text, etc.), see also [#5](/../../issues/5) and [#6](/../../issues/6)
 
+## High-quality dataset papers
+
+- https://arxiv.org/pdf/2101.00027.pdf 
+- https://arxiv.org/abs/2111.11431
+
 ## Deadlines
 
 ### Option A: [NeurIPS Call For Papers](https://nips.cc/Conferences/2022/CallForPapers)
